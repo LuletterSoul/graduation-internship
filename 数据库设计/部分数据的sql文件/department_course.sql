@@ -1,0 +1,9 @@
+INSERT INTO `department_course` VALUES (1, 2);
+INSERT INTO `department_course` VALUES (2, 2);
+INSERT INTO `department_course` VALUES (1, 3);
+INSERT INTO `department_course` VALUES (2, 3);
+INSERT INTO `department_course` VALUES (1, 4);
+INSERT INTO `department_course` VALUES (1, 5);
+INSERT INTO `department_course` VALUES (1, 6);
+INSERT INTO `department_course` VALUES (1, 7);
+INSERT INTO `department_course` VALUES (1, 8);
